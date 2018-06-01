@@ -9,12 +9,12 @@
 <head>
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Get Crush Photo By ID Instagram</title>
+	<title>Get Crush Photo By URL Instagram</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
   <div id="wrap" style="margin:auto;width:500px;text-align:center;">
-    <h3>Get Crush Photo By ID Instagram</h3>
+    <h3>Get Crush Photo By URL Instagram</h3>
     <form method="POST">
        <input type="url" name="url" placeholder="Nhập URL hình ảnh cần lấy">
 	   <button type="submit" name="get">GET</button>
